@@ -26,7 +26,7 @@ background(colors)
 
 # 이름과 설명, 버튼에 들어갈 글 설정
 write("name", "윤건우")
-write("description"남자,중학생")
+write("description", "남자,중학생")
 write("button", "프로필")
 
 # 상세설명에 들어갈 제목과 글 설정
